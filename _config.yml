@@ -1,0 +1,28 @@
+name: LOVEIMAGESPHOTO
+favicon: null
+layout_spectrum: 0.3562829496804625
+typography_spectrum: 0.7782642948441207
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11278693471103907
+  lightness: 0.5962358638644218
+  saturation: 0.9123118028510362
+  rhythmicContrast: 0.07256760518066585
+purpose: []
